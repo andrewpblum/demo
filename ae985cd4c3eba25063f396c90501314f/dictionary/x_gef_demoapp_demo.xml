@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ade8dc10c32fa25063f396c90501318b" label="Demo" max_length="40" name="x_gef_demoapp_demo" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="EmpID" max_length="40" name="empid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
